@@ -16,6 +16,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: guest
+  owner: guests
   definition:
     $text: ./petstore.oas.yaml
