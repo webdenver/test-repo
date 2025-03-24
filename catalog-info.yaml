@@ -14,9 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: backstage/backstage
-    backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.io
+    github.com/project-slug: webdenver/test-repo
 spec:
   type: library
   owner: CNCF
